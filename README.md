@@ -1,0 +1,2 @@
+# zegribot
+Auto Trading bot
